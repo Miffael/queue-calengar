@@ -1,0 +1,29 @@
+html,
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+table,
+tr,
+td,
+ul,
+ol,
+li,
+a {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+body {
+  background-color: #fafafa;
+}
+
+.spacer {
+  flex: 1 1 100%;
+  display: block;
+}
